@@ -1,0 +1,18 @@
+#+TITLE: Split Optical Keyboard
+[[./hardware/image/00-overview.jpg]]
+
+* Hardware
+** MCU
+gd32vf103cbt6
+
+** Case
+Stacked acrylic or 3d print
+
+** Switch
+gateron ks-22, ks-15
+
+* Firmware
+Custom firmware with usb, uart, led basic function
+
+* Thanks
+[[https://discord.com/channels/715975244896272618/715975245336412346][Optical Future]]

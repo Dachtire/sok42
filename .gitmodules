@@ -1,0 +1,3 @@
+[submodule "firmware/GD32VF103_Firmware_Library"]
+	path = firmware/GD32VF103_Firmware_Library
+	url = https://github.com/Dachtire/GD32VF103_Firmware_Library.git
